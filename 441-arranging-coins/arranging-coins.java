@@ -16,5 +16,14 @@ class Solution {
             }
         }
         return (int)ans;
+        // int row=0;
+        // for(int i=1;;i++){
+        //     n-=i;
+        //     if(n<0){
+        //         break;
+        //     }
+        //     row++;
+        // }
+        // return row;
     }
 }
