@@ -3,9 +3,9 @@ class Solution {
         long s=0;
         long e=n;
         long  ans=0;
+        long mid=0;
         while(s<=e){
-            long mid = s+(e-s)/2;
-            System.out.println(mid);
+            mid = s+(e-s)/2;
             long sum = (mid*(mid+1))/2;
             if(sum<=n){
                 ans=mid;
