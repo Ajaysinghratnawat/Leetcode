@@ -6,8 +6,7 @@ class Solution {
         long mid=0;
         while(s<=e){
             mid = s+(e-s)/2;
-            long sum = (mid*(mid+1))/2;
-            if(sum<=n){
+            if((mid*(mid+1))/2 <= n){
                 ans=mid;
                 s=mid+1;
             }
