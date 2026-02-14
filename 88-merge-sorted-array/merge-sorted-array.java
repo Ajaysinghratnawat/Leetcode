@@ -24,34 +24,6 @@ class Solution {
         }
         for(int l=0;l<nums1.length;l++){
             nums1[l]=ans[l];
-        }      
-
-        // int count;
-        // if(m>=n){
-        //     count=m;
-        // }
-        // else{
-        //     count=n;
-        // }
-        // int k=0;
-        // int m=0;
-        // for(int i=0;i<count;i++){
-            
-
-        // }
-
-        // int index=0;
-        // for(int i=0;i<count;i++){
-        //     if(i<n){
-        //         ans[index]=nums2[i];
-        //         index++;
-        //     }
-        //     if(i<m){
-        //         ans[index]=nums1[i];
-        //         index++;
-        //     }
-        // }
-        // Arrays.sort(ans);
-        // System.out.println(ans);
+        }   
     }
 }
