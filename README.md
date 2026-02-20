@@ -25,7 +25,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in **Ja
 | **DP** | ⏳ | $O(n^2)$ | Knapsack, LIS |
 
 ---
-
+ 
 ## ⚡ Complexity Cheat Sheet
 
 Below is a quick reference for the Big O complexities of common operations:
