@@ -38,3 +38,4 @@ Below is a quick reference for the Big O complexities of common operations:
 | **Stack** | $O(n)$ | $O(n)$ | $O(1)$ | $O(1)$ |
 | **Queue** | $O(n)$ | $O(n)$ | $O(1)$ | $O(1)$ |
 | **BST (Average)** | $O(\log n)$ | $O(\log n)$ | $O(\log
+ 
